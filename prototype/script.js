@@ -10,3 +10,8 @@ for(let i=0; i<boit.length;i++){
 }
 console.log(boit.length);
 console.log(element);
+
+
+
+
+
